@@ -1,1 +1,1 @@
-web: gunicorn myboard.wsgi
+web:gunicorn myboard.wsgi
